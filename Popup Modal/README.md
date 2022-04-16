@@ -1,21 +1,28 @@
-# Light/Dark Theme
+# POPUP MODAL
 
 **PT_BR**
 
-Para a seguinte atividade, utilizei apenas *CSS* e *Javascript* para transformar o tema do site de claro para escuro e vice-versa.
+Para a seguinte atividade, utilizei _CSS_ e _Javascript_ para criar um popup modal.
 
-Aprendi como animar a transição do tema e também como animar a animação do botão.
+Eu aprendi:
 
-Para conferir o resultado acesse o site:
-https://darklight-ielison.netlify.app/
+- Como suavizar as transições de animação de abertura/fechamento
+- Como estilizar um popup modal
+- A posição _fixed_ do CSS
+- Como usar eventos de ponteiro CSS para evitar eventos de clique
+  Confira o resultado [AQUI](https://jspopupmodal.netlify.app/).
 
-______
+---
 
 **EN**
 
-For the following activity, I used only *CSS* and *Javascript* to transform the website theme from light to dark and vice versa.
+For the following activity, I used _CSS_ and _Javascript_ to create a popup modal.
 
-I learned how to animate the theme transition and also how to animate the button animation.
+I learned:
 
-To check the result, visit the website:
-https://darklight-ielison.netlify.app/
+- How to smooth open/close animation transitions
+- How to style an modal
+- CSS position fixed
+- How to use CSS pointer events to prevent click events
+
+Check the result [HERE](https://jspopupmodal.netlify.app/).
