@@ -1,0 +1,30 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  height: 100vh;
+  background: linear-gradient(#f58225 50%, #3a3a3a 50%);
+}
+#dia {
+  background-color: #494a4d;
+  width: 80vmin;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top: 50%;
+  left: 50%;
+  text-align: center;
+  font-size: 6vmin;
+  color: #ffffff;
+  font-family: "Poppins", sans-serif;
+  text-transform: uppercase;
+  font-weight: 500;
+  letter-spacing: 2px;
+  padding: 1em 0;
+  box-shadow: 0 30px -60px rgba(5, 0, 0, 0.205);
+  border-radius: 20px;
+}
+#dia span {
+  color: #f58225;
+}
