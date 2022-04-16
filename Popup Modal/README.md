@@ -10,7 +10,8 @@ Eu aprendi:
 - Como estilizar um popup modal
 - A posição _fixed_ do CSS
 - Como usar eventos de ponteiro CSS para evitar eventos de clique
-- Confira o resultado [AQUI](https://jspopupmodal.netlify.app/).
+
+Confira o resultado [AQUI](https://jspopupmodal.netlify.app/).
 
 ---
 
