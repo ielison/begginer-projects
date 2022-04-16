@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./style.css" />
+    <script
+      src="https://kit.fontawesome.com/139c29f134.js"
+      crossorigin="anonymous"
+    ></script>
+    <title>Popup Modal</title>
+  </head>
+  <body>
+    <button data-modal-target="#modal" class="popup-button">Abrir Popup Modal</button>
+    <div class="modal" id="modal">
+      <div class="modal-header">
+        <div class="title">Popup de Exemplo</div>
+        <button data-close-button class="close-button">&times;</button>
+      </div>
+      <div class="modal-body">
+        <p>
+          Olá! Bem vindo ao Popup de Exemplo.
+          Eu me chamo Iélison Barbosa e estou aprendendo Javascript.
+          Se você chegou até essa página é porque você, de alguma forma, se interessou pelo que estou fazendo ou talvez queira aprender também como criar uma Popup Modal com Javascript assim como fiz aqui nesse site.
+          Esse site foi criado durante o mês de abril de 2022.
+        </p>
+        <p>
+          Agradeço a sua visita ao site e espero que tenha gostado.Até mais!
+        </p>       
+      </div>
+    </div>
+    <div id="overlay"></div>
+    <script src="./main.js"></script>
+  </body>
+</html>
