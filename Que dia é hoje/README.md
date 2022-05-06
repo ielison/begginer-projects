@@ -2,7 +2,7 @@
 
 **PT_BR**
 
-Para a seguinte atividade, utilizei _Javascript_ para criar um site que mostre qual o dia da semana em que estamos.
+Para a seguinte atividade, utilizei _JavaScript_ para criar um site que mostre qual o dia da semana em que estamos.
 
 Eu aprendi:
 
@@ -14,7 +14,7 @@ Confira o resultado [AQUI](https://quediaehoje.netlify.app/).
 
 **EN**
 
-For the following activity, I used _Javascript_ to create a website that shows what day of the week it is.
+For the following activity, I used _JavaScript_ to create a website that shows what day of the week it is.
 
 I learned:
 
